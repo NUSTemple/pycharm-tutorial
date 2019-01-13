@@ -1,0 +1,1 @@
+# Comparison between PyCharm, Jupyter, Spyder and Notepad++

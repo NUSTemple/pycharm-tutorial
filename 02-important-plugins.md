@@ -1,0 +1,7 @@
+# Important plugins
+
+## .ignore
+
+## bash
+
+
