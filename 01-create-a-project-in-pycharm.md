@@ -4,7 +4,8 @@
 
 ```bash
 project_root/
-	--- conf/
+
+    --- conf/
     --- src/
         --- __init__.py
     --- logs/
