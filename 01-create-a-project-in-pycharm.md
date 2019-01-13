@@ -1,4 +1,8 @@
-# This chapter we will create a example project in PyCharm
+This chapter we will create a example project in PyCharm
+
+[TOC]
+
+
 
 ## Sample Folder Structure
 
