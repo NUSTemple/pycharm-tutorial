@@ -21,5 +21,5 @@
 
 In Summary:
 
-1. For development, we can use `Jupyter` or `Spyder` to build your code since we need to frequent change and see the result difference immediately. 
+1. For development, we can use `Jupyter` or `Spyder` to build/test your code since we need to frequent change and see the result difference immediately. Once we prove our code logic, we need to move to PyCharm/Notepad++ for better code management. 
 2. For project management, we can use `PyCharm` to better manage our code if our code is more or less stable. 
