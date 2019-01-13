@@ -18,8 +18,6 @@ project_root/
 
 ```
 
-
-
 ## Setup interpreter
 
 In PyCharm, open PyCharm settings. Then choose or add the Python interpreter. 
