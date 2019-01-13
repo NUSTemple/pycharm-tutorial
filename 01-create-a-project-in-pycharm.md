@@ -1,8 +1,12 @@
-# This chapter we will create a example project in pycharm
+# This chapter we will create a example project in PyCharm
 
 ## Sample Folder Structure
 
-## setup interpreter
+## Setup interpreter
 
-## enable version control
+## Enable version control
+
+## Create .gitignore File
+
+## Python Module
 
